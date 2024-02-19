@@ -1494,7 +1494,7 @@ body.active { overflow: hidden; }
     margin-block: -10px 15px;
   }
 
-  .hero .wrapper .strong { left: 25%; }
+  .hero .wrapper .strong { left: 14%; }
 
   .hero-text {
     --fs-10: 2rem;
